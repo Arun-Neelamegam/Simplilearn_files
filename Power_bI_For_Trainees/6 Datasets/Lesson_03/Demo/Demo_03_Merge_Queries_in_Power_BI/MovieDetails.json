@@ -1,0 +1,17 @@
+[
+  {
+    "MovieID": 1,
+    "Title": "The Shawshank Redemption",
+    "Director": "Frank Darabont"
+  },
+  {
+    "MovieID": 2,
+    "Title": "The Godfather",
+    "Director": "Francis Ford Coppola"
+  },
+  {
+    "MovieID": 3,
+    "Title": "The Dark Knight",
+    "Director": "Christopher Nolan"
+  }
+]

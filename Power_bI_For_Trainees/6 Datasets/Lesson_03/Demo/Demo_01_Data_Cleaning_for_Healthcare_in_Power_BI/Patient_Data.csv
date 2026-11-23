@@ -1,0 +1,6 @@
+PatientID,PatientName,Age,Gender,Diagnosis,TreatmentDate,TreatmentOutcome
+1,John Doe,35,Male,Heart Disease,1/1/2023,Successful
+2,Jane Smith,42,Female,Diabetes,2/15/2023,In Progress
+3,David Lee,28,Male,Broken Leg,3/20/2023,Successful
+4,Emily Brown,50,Female,,4/5/2023,Failed
+5,John Doe,35,Male,Heart Disease,1/1/2023,Successful

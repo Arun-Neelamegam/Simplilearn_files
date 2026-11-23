@@ -1,0 +1,11 @@
+TransactionDate,AccountID,TransactionAmount,TransactionType,Product
+2023-01-01,1001,1000,Deposit,Savings
+2023-01-02,1001,500,Withdrawal,Checking
+2023-01-03,1002,2000,Deposit,Savings
+2023-01-04,1002,100,Withdrawal,Checking
+2023-02-01,1001,800,Deposit,Savings
+2023-02-02,1001,300,Withdrawal,Checking
+2023-02-03,1002,1500,Deposit,Savings
+2023-02-04,1002,200,Withdrawal,Checking
+2024-01-01,1001,1200,Deposit,Savings
+2024-01-02,1001,600,Withdrawal,Checking

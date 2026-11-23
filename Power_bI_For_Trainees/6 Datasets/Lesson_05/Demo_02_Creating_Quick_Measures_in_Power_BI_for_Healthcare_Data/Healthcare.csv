@@ -1,0 +1,11 @@
+PatientID,Age,Diagnosis,Hospital Costs
+1,35,Heart Disease,10000
+2,42,Diabetes,8000
+3,50,Cancer,12000
+4,28,Flu,500
+5,60,Stroke,15000
+6,45,Diabetes,9000
+7,38,Heart Disease,11000
+8,25,Flu,400
+9,55,Cancer,13000
+10,40,Stroke,14000

@@ -1,0 +1,8 @@
+OrderID,CustomerName,Product,Quantity,Price,OrderDate,SalesRegion,Status
+1001,John Smith,Laptop,2,850,2023/01/15,North,Delivered
+1002,Jane Doe,Mouse,,20,2023/01/16,East,Pending
+1003,Peter Ray,Monitor,1,200,2023/01/18,West,Delivered
+1004,John Smith,Laptop,1,850,2023/01/18,North,Delivered
+1005,jane doe,Keyboard,3,50,2023/01/20,East,pending
+1006,Anna Belle,Monitor,2,210,2023/01/22,South,Cancelled
+1007,Peter Ray,Mouse,5,20,2023/01/25,West,Delivered

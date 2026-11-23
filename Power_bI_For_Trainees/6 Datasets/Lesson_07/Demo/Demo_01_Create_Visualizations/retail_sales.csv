@@ -1,0 +1,21 @@
+Date,Product,Category,Sales,Quantity,Region,Store,Customer Segment
+1/1/2023,iPhone,Electronics,1000,2,North,Store 1,High-Income
+1/2/2023,Jeans,Clothing,500,1,South,Store 2,Mid-Income
+1/3/2023,iPhone,Electronics,1200,3,West,Store 1,Low-Income
+1/4/2023,Biscuits,Home Goods,800,2,East,Store 3,High-Income
+1/5/2023,iPhone,Electronics,1500,4,North,Store 1,High-Income
+1/6/2023,Sofa,Furniture,2000,1,South,Store 2,Mid-Income
+1/7/2023,Jeans,Clothing,600,2,West,Store 1,Low-Income
+1/8/2023,Biscuits,Home Goods,1000,3,East,Store 3,High-Income
+1/9/2023,iPhone,Electronics,1800,5,North,Store 1,High-Income
+1/10/2023,Sofa,Furniture,2500,2,South,Store 2,Mid-Income
+1/11/2023,Jeans,Clothing,700,3,West,Store 1,Low-Income
+1/12/2023,Biscuits,Home Goods,1200,4,East,Store 3,High-Income
+1/13/2023,iPhone,Electronics,2000,6,North,Store 1,High-Income
+1/14/2023,Sofa,Furniture,3000,3,South,Store 2,Mid-Income
+1/15/2023,Jeans,Clothing,800,4,West,Store 1,Low-Income
+1/16/2023,Biscuits,Home Goods,1500,5,East,Store 3,High-Income
+1/17/2023,iPhone,Electronics,2500,8,North,Store 1,High-Income
+1/18/2023,Sofa,Furniture,3500,4,South,Store 2,Mid-Income
+1/19/2023,Jeans,Clothing,900,5,West,Store 1,Low-Income
+1/20/2023,Biscuits,Home Goods,2000,6,East,Store 3,High-Income
